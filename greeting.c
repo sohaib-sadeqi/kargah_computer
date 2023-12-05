@@ -1,6 +1,5 @@
 #include <stdio.h>
-
-int print_number(int a)
+int multiple(int a, int b)
 {
-return a;
+	return a * b;
 }
